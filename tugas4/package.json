@@ -1,0 +1,19 @@
+{
+    "name": "tugas4",
+    "version": "1.0.0",
+    "description": "javasxript asynchronus program",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "practice",
+        "basic"
+    ],
+    "author": "Marsella",
+    "license": "ISC",
+    "dependencies": {
+        "cross-fetch": "^3.1.4"
+    }
+}
